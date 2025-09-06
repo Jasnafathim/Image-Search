@@ -16,9 +16,9 @@ This is a simple **Image Search Engine** built using **HTML**, **CSS**, and **Ja
 
 ## Screenshots
 
-![Image Search Engine Screenshot](1-Image-search)
+![Image Search Engine Screenshot](1-Image-search.png)
 
-![Image Search Result Screenshot](2-Search-result)
+![Image Search Result Screenshot](2-Search-result.png)
 
 ## How to Get Your Unsplash API Key
 
